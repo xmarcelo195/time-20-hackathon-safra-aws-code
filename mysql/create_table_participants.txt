@@ -1,0 +1,7 @@
+CREATE TABLE `open_banking_participants` (
+  `id_organization` varchar(40) NOT NULL,
+  `tx_name` varchar(100) DEFAULT NULL,
+  `tx_status` varchar(10) DEFAULT NULL,
+  `dt_modified` datetime DEFAULT NULL,
+  PRIMARY KEY (`id_organization`)
+) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_0900_ai_ci
