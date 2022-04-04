@@ -8,5 +8,4 @@ A pasta códigos auxiliares contém arquivos utilizados para a transferência de
 
 O fluxograma abaixo demonstra as interações entre as aplicações de cloud utilizadas neste projeto:
 
-![image](https://user-images.githubusercontent.com/102924236/161454735-aa077037-6093-4471-9982-e17629f75280.png)
-
+![image](https://user-images.githubusercontent.com/102924236/161455079-045092a6-46fd-4a56-a8e3-d46e25f6b158.png)
