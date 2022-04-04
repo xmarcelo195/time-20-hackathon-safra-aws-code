@@ -29,7 +29,6 @@ def lambda_handler(event, context):
     response = json.loads(r.data.decode('utf-8'))
     
     for item in response:
-        break
         id_organization = item['OrganisationId']
         tx_name = item['RegisteredName']
         tx_status = item['Status']
