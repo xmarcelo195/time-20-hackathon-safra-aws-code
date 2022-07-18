@@ -1,4 +1,4 @@
-# Time-20 Programa Technee Banco Safra - Repositório #2
+# Time-20 Hackathon Technee Banco Safra - Repositório #2
 
 Este repositório contém informações acerca dos códigos utilizados para a itegração das aplicações em cloud (AWS) com os formulários de dados hospedados em nosso site. A descrição abaixo informa como os documentos estão organizados. 
 
